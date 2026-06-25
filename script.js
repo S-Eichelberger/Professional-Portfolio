@@ -51,7 +51,9 @@ let currentSlide = 1;
 // Project gallery images - customize with your own
 const galleryImages = {
   1: [
-    'assets/images/projects/flexpro_kpi_dashboard_redacted.png'
+    'assets/images/projects/flexpro_kpi_dashboard_redacted.png',
+    'assets/images/projects/dashboard_closed_tickets.png',
+    'assets/images/projects/dashboard_ticket_status.png'
   ],
   2: [
     'assets/images/projects/flexpro_retention_sop.png',
